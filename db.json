@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "Мой супер пост",
+      "author": "Саша Каравайкина"
+    },
+    {
+      "title": "Мой другой супер пост",
+      "author": "Саша Каравайкина"
+    }
+  ],
+  "profile": {
+    "first_name": "Саша",
+    "last_name": "Каравайкина",
+    "email": "sashak@example.com"
+  }
+}
